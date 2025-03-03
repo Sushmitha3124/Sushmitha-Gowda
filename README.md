@@ -1,7 +1,4 @@
-# Sushmitha-Gowda
-This is my first Git Repository
-<br>
-Author Sushmi
+
 # 💫 About Me:
 I am currently Studying
 
